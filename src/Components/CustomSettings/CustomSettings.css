@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.input-field {
+    border: 1px #000 solid;
+    margin: 5% 0;
+    padding: 4px;
+    border-radius: 12px
+}
